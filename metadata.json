@@ -1,0 +1,10 @@
+{
+  "name": "Safra AI",
+  "description": "A modern mobile-first personal AI assistant with OpenAI Responses API backend, voice input, text-to-speech, and chat history.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
